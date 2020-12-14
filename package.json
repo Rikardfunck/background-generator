@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rikardfunck/background-generator/issues"
   },
-  "homepage": "https://github.com/Rikardfunck/background-generator#readme"
+  "homepage": "https://github.com/Rikardfunck/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
